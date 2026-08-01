@@ -101,5 +101,3 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
-
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
